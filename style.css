@@ -1,0 +1,57 @@
+body {
+  background-image: url("http://test.moggybali.com/wp-content/uploads/2013/12/surfing1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: yellow;
+}
+
+h1, h2, h3 {
+  font-family: 'Francois One', sans-serif;
+  text-align: center;
+}
+
+.Duke {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-size: cover;
+  background-image: url("http://www.thesurfchannel.com/newwave/wp-content/uploads/2013/08/Duke-Kahanamoku-surfing_Photo-Dukes-Oceanfest.jpg");
+  background-position: center;
+}
+
+.Eddie {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-size: cover;
+  background-image: url("http://pvs.kcc.hawaii.edu/images/portraits/eddie_surfing.jpg");
+  background-position: center;
+}
+
+.Kelly {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-size: cover;
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/1/1b/KellySlater_byRobKeaton.jpg");
+  background-position: center;
+}
+
+.Bethany {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-size: cover;
+  background-image: url("http://myhero.com/images/guest/g263991/hero89879/1Bethham.jpg");
+  background-position: center;
+}
